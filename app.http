@@ -1,0 +1,14 @@
+POST http://localhost:3000/login/
+{
+  "username":"JoeBiden",
+  "password":"biden@123"
+}
+
+
+POST http://localhost:3000/register/
+{
+  "username": "chintu_dhee",
+  "password": "dheeraj_852",
+  "name": "Chintu Bobbili",
+  "gender": "male"
+}
